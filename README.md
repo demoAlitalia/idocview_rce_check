@@ -10,7 +10,7 @@
 ```
 python ./check.py
 ```
-
+![image-20240424181234222]([idocview_rce_check/img/use.png at main · demoAlitalia/idocview_rce_check (github.com)](https://github.com/demoAlitalia/idocview_rce_check/blob/main/img/use.png))
 ### 目前支持的检测版本
 
 版本检测种类区分
